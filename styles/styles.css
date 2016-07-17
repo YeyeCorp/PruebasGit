@@ -78,8 +78,11 @@ p{
 }
 
 .btn{
-	padding: 0.5rem;
-	background-color: #C0B31C;
-	color: black;
+	padding: 10px 20px;
 	border-radius: 5px;
+	border: #D4C31C;
+	background-color: #4299D4;
+	color: black;
+	margin: 10px 0;
+	display: inline-block;
 }
