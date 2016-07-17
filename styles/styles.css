@@ -44,10 +44,16 @@ p{
 	font-size: 80px !important;
 }
 
-.info{
+.info h2{
 	background-color: #141419;
 	color: white;
 	padding: 20px;
+}
+
+.info h2{
+	font-size: 40px;
+	margin: 0;
+	text-align: center;
 }
 
 .infoContent{
@@ -60,4 +66,20 @@ p{
 .infoContent .block h3{
 	font-size: 25px;
 	margin: 5px 0 10px 0;
+}
+
+.infoContent .block{
+	padding: 8px;
+	width: 100%
+}
+
+.infoContent .block .icon-social{
+	font-size: 70px;
+}
+
+.btn{
+	padding: 0.5rem;
+	background-color: #C0B31C;
+	color: black;
+	border-radius: 5px;
 }
