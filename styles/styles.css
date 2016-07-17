@@ -85,4 +85,9 @@ p{
 	color: black;
 	margin: 10px 0;
 	display: inline-block;
+	transition: 1.3s;
+}
+
+.btn:hover{
+	transform: scale(1.2);
 }
