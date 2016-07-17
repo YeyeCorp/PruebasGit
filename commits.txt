@@ -1,0 +1,17 @@
+commit 6924bbe1cf849ce1aba8255b8802f4cbb89b6206
+Author: Jose Manuel <jose.mfa0609@hotmail.com>
+Date:   Sat Jul 16 23:01:51 2016 -0500
+
+    Se modifico el estilo y unas cosillas
+
+commit 318b1b127eeffd9252dcbaa696e09c281a25a992
+Author: Jose Manuel <jose.mfa0609@hotmail.com>
+Date:   Sat Jul 16 22:45:09 2016 -0500
+
+    Agregue el twitter y cambie color letra
+
+commit 98458a6fbe87bda3552c17450f2dc8ebb7aed780
+Author: Jose Manuel <jose.mfa0609@hotmail.com>
+Date:   Sat Jul 16 22:41:02 2016 -0500
+
+    Empece el proyecto
